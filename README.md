@@ -8,3 +8,5 @@ All cmd for noobs
 > cd hacking-cmd
 
 > ./hacking-cmd.sh or bash hacking-cmd.sh
+
+*Thank you*
